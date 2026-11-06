@@ -44,7 +44,7 @@ Built with Python and PyQt6, it lets you encrypt and decrypt text using custom k
 Clone the repository:
 
 ```bash
-git clone https://github.com/heR00Tuz3r/noodle-cipher.git
+git clone https://github.com/theR00Tuz3r/noodle-cipher.git
 cd noodle-cipher
 ```
 
