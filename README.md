@@ -32,8 +32,6 @@ Built with Python and PyQt6, it lets you encrypt and decrypt text using custom k
   <img src="images/preview.png" alt="Noodle Cipher" width="700">
 </p>
 
-> Replace this preview with an actual screenshot of the application if desired.
-
 ## ⚙️ Installation
 
 ### Requirements
