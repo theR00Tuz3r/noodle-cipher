@@ -97,6 +97,6 @@ Do not use it to protect sensitive information.
 
 ## 📜 License
 
-This project is open-source. Add a license of your choice, such as the MIT License.
+This project is open-source. under the the MIT License.
 
 ---
